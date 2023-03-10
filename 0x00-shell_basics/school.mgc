@@ -1,2 +1,4 @@
-0 string SCHOOL school data
-! :mime school
+
+0 string SCHOOL file school.mgc 
+! :mime school 
+
